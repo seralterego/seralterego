@@ -2,13 +2,13 @@
 
 ## 📔 Um resumo...
   <div style="display: flex">
-    <a href="https://github.com/seralterego" style="text-decoration: none;">
-      <!-- board GitHub 01 -->
-      <img style="height: 185px; width: 400px;" src="https://github-readme-stats.vercel.app/api?username=seralterego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/seralterego" style="text-decoration: none;display: flex; align-items: center;">
       <!-- Minha cara feia -->
       <img style="width: 20%; height: auto" src="https://sergioleitao.com.br/assets/images/perfil/foto_perfil_inicio.png" title="Oi, sou o Sérgio!">
+      <!-- board GitHub 01 -->
+      <img style="height: 185px; width: 400px;" src="https://github-readme-stats.vercel.app/api?username=seralterego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       <!-- board GitHub 02 -->
-      <img style="height: 176px; width: 320px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seralterego&layout=compact&langs_count=10&theme=tokyonight"/>
+      <img style="height: 185px; width: 320px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seralterego&layout=compact&langs_count=10&theme=tokyonight"/>
     </a>
   </div>
 
