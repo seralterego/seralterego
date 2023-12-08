@@ -1,16 +1,16 @@
 # Bem-vindo(a)! Prazer, sou o Sérgio Leitão!
 
 ## 📔 Um resumo...
-<div style="width: 100%; display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 32px">
-  <div>
-    <img style="width: 320px" src="https://sergioleitao.com.br/assets/images/perfil/foto_perfil_inicio.png">
+  <div style="display: flex">
+    <a href="https://github.com/seralterego" style="text-decoration: none;">
+      <!-- board GitHub 01 -->
+      <img style="height: 185px; width: 400px;" src="https://github-readme-stats.vercel.app/api?username=seralterego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <!-- Minha cara feia -->
+      <img style="width: 20%; height: auto" src="https://sergioleitao.com.br/assets/images/perfil/foto_perfil_inicio.png" title="Oi, sou o Sérgio!">
+      <!-- board GitHub 02 -->
+      <img style="height: 176px; width: 320px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seralterego&layout=compact&langs_count=10&theme=tokyonight"/>
+    </a>
   </div>
-  <div>
-    <a href="https://github.com/seralterego">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seralterego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seralterego&layout=compact&langs_count=10&theme=tokyonight"/>
-  </div>
-</div>
 
 ## 🤹 As principais tecnológias que domino:
 
