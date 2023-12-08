@@ -1,9 +1,9 @@
 # Bem-vindo(a)! Prazer, sou o Sérgio Leitão!
 
 ## 📔 Um resumo...
-<div style="width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 32px">
+<div style="width: 100%; display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 32px">
   <div>
-    <img style="width: 520px" src="https://sergioleitao.com.br/assets/images/perfil/foto_perfil_inicio.png">
+    <img style="width: 320px" src="https://sergioleitao.com.br/assets/images/perfil/foto_perfil_inicio.png">
   </div>
   <div>
     <a href="https://github.com/seralterego">
